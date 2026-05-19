@@ -1,20 +1,36 @@
-# загрузка видео
-opencv-python>=4.8.0
-numpy>=1.24.0
+# ──────────────────────────────────────────────────────────────────────
+# requirements.txt
+#
+# ВАЖНО: устанавливать строго в этом порядке:
+#   1. pip install "numpy>=1.26.0,<2.0.0"
+#   2. pip install opencv-python-headless==4.10.0.84
+#   3. pip install paddlepaddle==2.6.2 --only-binary=:all:
+#   4. pip install -r requirements.txt
+#
+# numpy < 2.0 обязателен — paddlepaddle и torch несовместимы с numpy 2.x
+# opencv-python-headless — headless версия без GUI зависимостей
+# paddlepaddle --only-binary — без флага pip пытается собрать из исходников
+# ──────────────────────────────────────────────────────────────────────
 
-# детекция
-ultralytics>=8.0.0        # YOLOv8
+# Обработка изображений и видео
+opencv-python-headless==4.10.0.84
+numpy>=1.26.0,<2.0.0
 
-# OCR и коды
-paddlepaddle>=2.5.0
-paddleocr>=2.7.0
-pyzbar>=0.1.9             # штрихкоды
-qreader>=0.8.0            # QR-коды (fallback к pyzbar)
+# Детекция объектов
+ultralytics>=8.2.0,<9.0.0
 
-# трекинг / экспорт
-scipy>=1.11.0             # IoU matching
+# OCR
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+
+# Штрихкоды и QR (требует libzbar: apt install libzbar0 / скачать dll на Windows)
+pyzbar>=0.1.9
+
+# Обработка данных и экспорт
+scipy>=1.11.0
 pandas>=2.0.0
 
-# UI
+# Веб-интерфейс
 streamlit>=1.28.0
 Pillow>=10.0.0
+
