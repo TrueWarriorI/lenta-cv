@@ -1,0 +1,8 @@
+# YOLO датасет — ценники Ленты
+path: D:\Dev\LentaTech\dataset
+train: images/train
+val:   images/val
+
+nc: 1
+names:
+  0: price_tag

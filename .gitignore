@@ -1,0 +1,19 @@
+# Создайте файл .gitignore
+echo "__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar
+*.gz
+data/
+*.db
+.DS_Store" > .gitignore

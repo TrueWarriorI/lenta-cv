@@ -1,0 +1,20 @@
+# загрузка видео
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# детекция
+ultralytics>=8.0.0        # YOLOv8
+
+# OCR и коды
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+pyzbar>=0.1.9             # штрихкоды
+qreader>=0.8.0            # QR-коды (fallback к pyzbar)
+
+# трекинг / экспорт
+scipy>=1.11.0             # IoU matching
+pandas>=2.0.0
+
+# UI
+streamlit>=1.28.0
+Pillow>=10.0.0

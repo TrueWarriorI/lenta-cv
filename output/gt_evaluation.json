@@ -1,0 +1,455 @@
+{
+  "total": 56,
+  "successful": 0,
+  "success_rate": 0.0,
+  "results": [
+    {
+      "index": 1,
+      "product": "Вино HAUT MARIN Colombard Ugni-blanc Lit",
+      "gt_price": "1104.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 2,
+      "product": "Вино HAUT MARIN\nColombard Ugni-\nblanc Li",
+      "gt_price": "1104.99",
+      "ocr_price": "1747.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 3,
+      "product": "Вино HAUT MARIN\nСовиньон Блан Перл серии",
+      "gt_price": "1299.99",
+      "ocr_price": "1299.0",
+      "score": 0.6,
+      "success": false
+    },
+    {
+      "index": 4,
+      "product": "Вино PURE\nALTITUDE Совиньон\nБлан бел. су",
+      "gt_price": "1499.99",
+      "ocr_price": "1499.0",
+      "score": 0.4,
+      "success": false
+    },
+    {
+      "index": 5,
+      "product": "Вино PURE\nALTITUDE\nШардоне бел. сух.\n(Фр",
+      "gt_price": "1499.99",
+      "ocr_price": "1499.0",
+      "score": 0.4,
+      "success": false
+    },
+    {
+      "index": 6,
+      "product": "Вино REMY PANNIER\nSauvignon Валь де\nЛуар",
+      "gt_price": "1374.99",
+      "ocr_price": "5299.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 7,
+      "product": "Вино BANFI\nPrincipessa Gavia\nGavi Принце",
+      "gt_price": "1849.99",
+      "ocr_price": "849.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 8,
+      "product": "Вино ARAGOSTA\nВерментино ди\nСарденья бел",
+      "gt_price": "2039.99",
+      "ocr_price": "18080.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 9,
+      "product": "Вино GAVI DEI\nGAVI бел. сух.\n(Италия) 0.",
+      "gt_price": "6289.99",
+      "ocr_price": "1498.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 10,
+      "product": "Вино LE RIME\nТоскана ординарное бел.\nсух",
+      "gt_price": "1749.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 11,
+      "product": "Вино PRIARA\nПино Гриджио ординар. бел. с",
+      "gt_price": "1999.99",
+      "ocr_price": "1999.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 12,
+      "product": "Вино SANT ORSOLA\nПино Гриджио сортовое б",
+      "gt_price": "999.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 13,
+      "product": "Вино STELLA\nBELLA Пино\nГриджио бел. сух.",
+      "gt_price": "899.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 14,
+      "product": "Вино SANTA\nCRISTINA Vermentino\nТоскана I",
+      "gt_price": "1999.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 15,
+      "product": "Вино PRIMOSOLE\nПино Гриджно Терре\nСичиал",
+      "gt_price": "1099.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 16,
+      "product": "Вино MAXALE\nМачерато Шардоне\ncopт. бел. ",
+      "gt_price": "1631.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 17,
+      "product": "Вино\nDONNAFUGATA\nАнтилия Сицилия ординар",
+      "gt_price": "2189.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 18,
+      "product": "Вино\nFRESCOBALDI\nТоскана бел. сух. (Итал",
+      "gt_price": "1599.99",
+      "ocr_price": "1599.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 19,
+      "product": "Вино PFEFFERER\nПфефферер орд\nбел. п/ сух",
+      "gt_price": "1899.99",
+      "ocr_price": "1899.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 20,
+      "product": "Вино BATASIOLO\nGranee Гави дель\nКомуне д",
+      "gt_price": "1899.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 21,
+      "product": "Вино SCALA Tenuta\nSant' Ant Garg Chard\nо",
+      "gt_price": "1639.00",
+      "ocr_price": "1699.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 22,
+      "product": "Вино COME IL VENTO\nСовиньон дель\nПоджиар",
+      "gt_price": "1699.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 23,
+      "product": "Вино MALAMIGO\nЛеди Драма ординар. бел. п",
+      "gt_price": "1199.99",
+      "ocr_price": "1499.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 24,
+      "product": "Вино CARE\nКариньена\nШардонне сорт. бел. ",
+      "gt_price": "1499.99",
+      "ocr_price": "899.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 25,
+      "product": "Вино PEDRA DA AUGA\nАльбариньо Риас\nБайша",
+      "gt_price": "1899.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 26,
+      "product": "Вино PRIORITARIO\nВиньо Верде ДОК бел. п/",
+      "gt_price": "719.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 27,
+      "product": "Вино BIENBEBIDO\nPULPO ординар.\nбел. п/ с",
+      "gt_price": "1632.99",
+      "ocr_price": "75.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 28,
+      "product": "Вино GATAO бел. п/ сух.\n(Португалия) 0.7",
+      "gt_price": "1223.99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 29,
+      "product": "Вино LE GRAND\nNOIR Ле Гран Нуар\nШардоне\n",
+      "gt_price": "1299,99",
+      "ocr_price": "1299.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 30,
+      "product": "Вино JARDIN DES CHARMES\nSAUVIGNON ИГП Пэ",
+      "gt_price": "1429,99",
+      "ocr_price": "1429.0",
+      "score": 0.6,
+      "success": false
+    },
+    {
+      "index": 31,
+      "product": "Вино ВАЛЛИ\nСОВИНЬОН БЛАН\nИГП Долина Луар",
+      "gt_price": "1584,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 32,
+      "product": "Вино LES NUAGES\nСовиньон Блан\nТурэн сорт",
+      "gt_price": "1529,99",
+      "ocr_price": "1529.0",
+      "score": 0.4,
+      "success": false
+    },
+    {
+      "index": 33,
+      "product": "Вино HENRI\nBOURGEDIS\nSancerre ординарное",
+      "gt_price": "5299,99",
+      "ocr_price": "5299.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 34,
+      "product": "Вино CHATEAU DE LA\nTHEBAUDIERE Долина\nЛу",
+      "gt_price": "2299,99",
+      "ocr_price": "1499.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 35,
+      "product": "Вино NICOLA\nBERGAGLIO Минайя Гави\nДОКГ Д",
+      "gt_price": "1529,99",
+      "ocr_price": "91529.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 36,
+      "product": "Вино LA CHIARA\nсорт. орд. Гави депь Кому",
+      "gt_price": "1799,99",
+      "ocr_price": "1799.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 37,
+      "product": "Вино LE FANTAISIES DE CAPION IGP\nрегиона",
+      "gt_price": "1299,99",
+      "ocr_price": "1299.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 38,
+      "product": "Вино ITALO CESCON\nПино Гриджо\nФриули DOC",
+      "gt_price": "2699,99",
+      "ocr_price": "2699.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 39,
+      "product": "Вино SANT\nORSOLA Coaве\nбел. сух.\n(Италия",
+      "gt_price": "899,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 40,
+      "product": "Вино IL ROCCHIN Gavi бел. сух. (Италия) ",
+      "gt_price": "1799,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 41,
+      "product": "Вино CIELO Треббьяно Пино Гриджо бел. п/",
+      "gt_price": "1019,99",
+      "ocr_price": "393.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 42,
+      "product": "Вино CIELO Гарганега э Шардоне бел. п/ с",
+      "gt_price": "1019,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 43,
+      "product": "Вино Sante Rive\nСоаве ординарное бел. су",
+      "gt_price": "1019,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 44,
+      "product": "Вино HAAS\nFRANZISKUS Пино\nГриджио сортов",
+      "gt_price": "1999,99",
+      "ocr_price": "1999.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 45,
+      "product": "Вино VIVALDI\nGarganega Veneto\nсорт. орд.",
+      "gt_price": "999,99",
+      "ocr_price": "999.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 46,
+      "product": "Вино ANNA SPINATO\nDiligo Пино Гриджио\nВе",
+      "gt_price": "1689,99",
+      "ocr_price": "1689.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 47,
+      "product": "Вино BRUNI\nГреканико Пино\nГридко ординар",
+      "gt_price": "999,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 48,
+      "product": "Вино TRESCA\nGrillo сорт. бел. сух. (Итал",
+      "gt_price": "899,99",
+      "ocr_price": "1326.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 49,
+      "product": "Вино 4 VOLTE\nBianco бел. сух\n(Италия) 0.",
+      "gt_price": "1326,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 50,
+      "product": "Вино ROQUETA\nOrigen Sl Эстасьонес\nМакабе",
+      "gt_price": "917,99",
+      "ocr_price": "78.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 51,
+      "product": "Вино VINA\nESMERALDA\nбел. п/ сух.\n(Испани",
+      "gt_price": "1099,99",
+      "ocr_price": "159.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 52,
+      "product": "Вино FAUSTINO\nRIVERO ULECIA\nChardonnay о",
+      "gt_price": "1159,99",
+      "ocr_price": "1159.0",
+      "score": 0.2,
+      "success": false
+    },
+    {
+      "index": 53,
+      "product": "Вино FAUSTINO\nRIVERO ULECIA\nMacabeo орд.",
+      "gt_price": "1159,99",
+      "ocr_price": "1949.0",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 54,
+      "product": "Вино PIEDRA DEL\nMAR Риас Байшас\nDO ордин",
+      "gt_price": "1949",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 55,
+      "product": "Вино VEGA SINDOA\nШардоне Нексас\nсорт. ор",
+      "gt_price": "1325,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    },
+    {
+      "index": 56,
+      "product": "Вино TREVO Branco\nВинью Верде ордин. бел",
+      "gt_price": "1325,99",
+      "ocr_price": "",
+      "score": 0.0,
+      "success": false
+    }
+  ]
+}
